@@ -1,0 +1,16 @@
+# Environment variables
+.env
+
+# Databases
+*.db
+checks.db
+
+# Data folders
+data/
+output/
+improver_output/
+
+# Ignore all JSON and text output files
+*.json
+*.txt
+
